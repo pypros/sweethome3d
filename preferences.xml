@@ -28,10 +28,11 @@
 <entry key="furnitureCategory#2">Lazienka</entry>
 <entry key="furnitureCategory#1">Lazienka</entry>
 <entry key="furnitureModelSize#3">3254037</entry>
+<entry key="recentHomes#2">/home/sobczuk/Downloads/mieszkanie/mieszkanie.sh3d</entry>
 <entry key="aerialViewCenteredOnSelectionEnabled">true</entry>
 <entry key="furnitureModelSize#2">130096</entry>
 <entry key="furnitureModelSize#1">877753</entry>
-<entry key="recentHomes#1">/home/sobczuk/Downloads/mieszkanie/mieszkanie.sh3d</entry>
+<entry key="recentHomes#1">/home/sobczuk/.eteks/sweethome3d/project/mieszkanie.sh3d</entry>
 <entry key="furnitureModelIconSize">128</entry>
 <entry key="furnitureModel#3">jar:file:Furniture-3-2307622455194454727.pref!/A327502000.3ds.obj</entry>
 <entry key="furnitureModel#2">jar:file:Furniture-3-6186366759710853308.pref!/model.dae</entry>
@@ -50,8 +51,8 @@
 <entry key="furnitureDoorOrWindow#1">false</entry>
 <entry key="furnitureElevation#3">8.5</entry>
 <entry key="furnitureElevation#2">0.0</entry>
-<entry key="furnitureProportional#3">true</entry>
 <entry key="furnitureElevation#1">11.0</entry>
+<entry key="furnitureProportional#3">true</entry>
 <entry key="newWallBaseboardThickness">1.0</entry>
 <entry key="furnitureProportional#2">false</entry>
 <entry key="furnitureProportional#1">false</entry>
@@ -75,7 +76,7 @@
 <entry key="furnitureModelRotation#2">1 0 0 0 0 -1 0 1 0</entry>
 <entry key="furnitureModelRotation#1">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureIcon#3">file:Furniture-3-8205980131294508523.pref</entry>
-<entry key="extensibleUnit">MILLIMETER</entry>
 <entry key="furnitureIcon#2">file:Furniture-3-1985289413238381849.pref</entry>
+<entry key="extensibleUnit">MILLIMETER</entry>
 <entry key="furnitureIcon#1">file:Furniture-3-422906414602120962.pref</entry>
 </properties>
